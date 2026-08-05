@@ -20,6 +20,6 @@
 
 ### WEBSITE!
 
-![WEB](https://liyabona-mendela.vercel.app/)
+https://liyabona-mendela.vercel.app/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
